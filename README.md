@@ -1,10 +1,12 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Leon
+Hi, call me tr3x
 ============================================================================================================================
 
-I'm a student learning to code
+I'm a student learning to code and working on my own projects
 ------------------------------
 
 I've been programming for about 2 years now, starting with the absolute basics in Java at school I discovered project oriented work with Python in the form of a Discord bot, the <a href="https://github.com/tr3xxx/tr3xBot">tr3xBot</a>, which also familiarized me with working with Linux servers. Along the way I learned scripting languages like HTML and CSS as well as parts of JavaScripts, before I came back to Java in the form of Minecraft plugins and Minecraft launchers and started a Discord bot development there as well, which was never finished though, as my latest project came in between. So I'm currently working on <a href="https://github.com/tr3xxx/ExotationGame">Exotation</a> and learning how to work with Unity and C#.  
+
+
 
 * 🌍  I'm based in Germany 🇩🇪
 * ✉️  You can contact me at [leon@tr3x.tech](mailto:leon@tr3x.tech)
