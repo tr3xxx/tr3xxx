@@ -1,4 +1,4 @@
-Hi, call me tr3x
+System.out.print("Hello World"), call me tr3x
 ============================================================================================================================
 
 I'm a student learning to code and working on my own projects
