@@ -4,10 +4,25 @@ Hi there
 I'm a student learning to code and working on my own projects
 ------------------------------
 
-```java
+```python
 
-Systen.out.println("Hello World!");
+class ComputerScienceStudent:
 
+    def __init__(self):
+        self.name = "Leon Burghardt"
+        self.username = "tr3x"
+        self.role = "Student of Computer Science"
+        self.language_spoken = ["de_DE", "en_US"]
+
+    def hello(self):
+        print("Thanks for checking out my profile! \n
+        Come on this journey with me as I continue improve my skills in computer science.")
+
+
+me = ComputerScienceStudent()
+me.hello()
+
+# inspired by <a href="https://github.com/Zhenye-Na/zhenye-na/blob/master/README.md">@Zhenye-Na</a>
 ```
 
 
