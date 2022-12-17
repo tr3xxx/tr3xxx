@@ -1,24 +1,35 @@
-std::cout << "Hello, World" << std::endl;
+printf("Hello World")
 ============================================================================================================================
 
-```python
-import datetime
+```csharp
 
-class ComputerScienceStudent:
+using System;
+using System.Collections.Generic;
 
-    def __init__(self):
-        self.name = "Leon Burghardt"
-        self.age =  datetime.datetime.now().year - 2004
-        self.role = "Student of Computer Science"
-        self.language_spoken = ["de_DE", "en_US"]
+class ComputerScienceStudent
+{
+    public string Name { get; set; }
+    public int Age { get; set; }
+    public string Role { get; set; }
+    public List<string> LanguageSpoken { get; set; }
 
-    def HelloWorld(self):
-        print("Thanks for checking out my profile! \n
-        Come on this journey with me as I continue improve my skills in computer science.")
+    public ComputerScienceStudent()
+    {
+        Name = "Leon Burghardt";
+        Age = DateTime.Now.Year - 2004;
+        Role = "Student of Computer Science";
+        LanguageSpoken = new List<string> { "de_DE", "en_US" };
+    }
 
+    public void HelloWorld()
+    {
+        Console.WriteLine("Thanks for checking out my profile! \n" +
+            "Come on this journey with me as I continue improve my skills in computer science.");
+    }
+}
 
-me = ComputerScienceStudent()
-me.HelloWorld()
+var me = new ComputerScienceStudent();
+me.HelloWorld();
 ```
 
 Skills for my daily use 📚
