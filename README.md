@@ -1,4 +1,4 @@
-System.out.print("Hello World"), call me tr3x
+Hi, i am github.profile.name
 ============================================================================================================================
 
 I'm a student learning to code and working on my own projects
