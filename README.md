@@ -22,7 +22,7 @@ class ComputerScienceStudent:
 me = ComputerScienceStudent()
 me.hello()
 
-# inspired by @Zhenye-Na
+# Inspired by @Zhenye-Na
 ```
 
 
