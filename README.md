@@ -21,17 +21,15 @@ me = ComputerScienceStudent()
 me.HelloWorld()
 ```
 
-Skills / daily use
-------------------------------
-* [Java](https://www.java.com/)
-* [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
-* [Python](https://www.python.org/)
-* Front-End ([HTML](https://www.w3.org/html/), [CSS](https://www.w3.org/Style/CSS/), [React.js](https://reactjs.org/))
-* Back-End ([Ubuntu](https://ubuntu.com/), [Apache](https://httpd.apache.org/), [Laravel](https://laravel.com/))
+| Skills / daily use                                                                  | <div align="center">                                                                                                               |
+|-------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|
+| * [Java](https://www.java.com/)                                                    |  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=false&username=tr3xxx" height="150" alt="languages graph"  /> |
+| * [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)                           |                                                                                                                                |
+| * [Python](https://www.python.org/)                                                |                                                                                                                                |
+| Front-End ([HTML](https://www.w3.org/html/), [CSS](https://www.w3.org/Style/CSS/), [React.js](https://reactjs.org/)) |                                                                                                                                |
+| Back-End ([Ubuntu](https://ubuntu.com/), [Apache](https://httpd.apache.org/), [Laravel](https://laravel.com/)) |                                                                                                                                |
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=false&username=tr3xxx" height="150" alt="languages graph"  />
-</div>
+
 
 Contact Information
 ------------------------------
