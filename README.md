@@ -28,15 +28,10 @@ Skills for my daily use 📚
 * 💻 [Java](https://www.java.com/)
 * 👀 Front-End ([HTML](https://www.w3.org/html/), [CSS](https://www.w3.org/Style/CSS/), [React.js](https://reactjs.org/)) 
 * ⚙️ Back-End ([Ubuntu](https://ubuntu.com/), [Apache](https://httpd.apache.org/), [Laravel](https://laravel.com/)) 
-------------------------------
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=false&username=tr3xxx" height="150" alt="languages graph"  />
-</div>
 
 Contact Information
 ------------------------------
-* [tr3x.xyz](https://tr3x.xyz) for more information
-* leon@tr3x.xyz for email contact
-* [@tr3xx_](https://twitter.com/tr3xx_) on Twitter
-* [tr3x#3329](https://discord.com/users/tr3x#3329) on Discord
+* ℹ️ [tr3x.xyz](https://tr3x.xyz) for more information
+* ✉️ leon@tr3x.xyz for email contact
+* 🐦 [@tr3xx_](https://twitter.com/tr3xx_) on Twitter
 
