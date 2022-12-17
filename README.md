@@ -22,7 +22,7 @@ class ComputerScienceStudent:
 me = ComputerScienceStudent()
 me.hello()
 
-# inspired by <a href="https://github.com/Zhenye-Na/zhenye-na/blob/master/README.md">@Zhenye-Na</a>
+# inspired by @Zhenye-Na
 ```
 
 
