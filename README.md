@@ -24,7 +24,7 @@ class ComputerScienceStudent
     public void HelloWorld()
     {
         Console.WriteLine("Thanks for checking out my profile! \n" +
-            "Come on this journey with me as I continue improve my skills in computer science.");
+            "Come on this journey with me as I continue to improve my skills in computer science.");
     }
 }
 
