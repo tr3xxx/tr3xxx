@@ -31,6 +31,8 @@ class ComputerScienceStudent
 var me = new ComputerScienceStudent();
 me.HelloWorld();
 ```
+Stats 📈
+------------------------------
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tr3xxx&&langs_count=10&layout=compact&theme=dark)](https://github.com/tr3xxx?tab=repositories)
 [![tr3x's GitHub stats](https://github-readme-stats.vercel.app/api?username=tr3xxx&theme=dark&show_icons=true)](https://github.com/tr3xxx?tab=repositories)
 
@@ -40,15 +42,6 @@ me.HelloWorld();
 <a href="(https://github.com/tr3xxx?tab=repositories">
   <img align="center" src="[https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat](https://github-readme-stats.vercel.app/api?username=tr3xxx&theme=dark&show_icons=true)" />
 </a>
-
-
-Skills for my daily use 📚
-------------------------------
-* 🎮 [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)/[Unity](https://unity.com/)
-* 🐍 [Python](https://www.python.org/)
-* 💻 [Java](https://www.java.com/)
-* 👀 Front-End ([HTML](https://www.w3.org/html/), [CSS](https://www.w3.org/Style/CSS/), [React.js](https://reactjs.org/)) 
-* ⚙️ Back-End ([Ubuntu](https://ubuntu.com/), [Apache](https://httpd.apache.org/), [Laravel](https://laravel.com/)) 
 
 Contact Information
 ------------------------------
