@@ -31,7 +31,7 @@ class ComputerScienceStudent
 var me = new ComputerScienceStudent();
 me.HelloWorld();
 ```
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tr3xxx)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tr3xxx&&langs_count=10&layout=compact)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/tr3xxx?tab=repositories))
 
 Skills for my daily use 📚
 ------------------------------
