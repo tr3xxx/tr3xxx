@@ -32,8 +32,16 @@ var me = new ComputerScienceStudent();
 me.HelloWorld();
 ```
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tr3xxx&&langs_count=10&layout=compact&theme=dark)](https://github.com/tr3xxx?tab=repositories)
-
 [![tr3x's GitHub stats](https://github-readme-stats.vercel.app/api?username=tr3xxx&theme=dark&show_icons=true)](https://github.com/tr3xxx?tab=repositories)
+
+
+<a href="(https://github.com/tr3xxx?tab=repositories">
+  <img align="center" src="[https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tr3xxx&&langs_count=10&layout=compact&theme=dark)" />
+</a>
+<a href="(https://github.com/tr3xxx?tab=repositories">
+  <img align="center" src="[https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat](https://github-readme-stats.vercel.app/api?username=tr3xxx&theme=dark&show_icons=true)" />
+</a>
+
 
 Skills for my daily use 📚
 ------------------------------
