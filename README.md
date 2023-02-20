@@ -10,7 +10,7 @@ class ComputerScienceStudent:
     def __init__(self):
         self.name = 'Leon Burghardt'
         self.age = datetime.now().year - 2004
-        self.o_notation = 'O(n!)'
+        self.complexity = 'O(n!)'
         self.role = 'Student of Computer Science and Mathematics'
         self.hobbies = ['reverse engineering', 'football']
         self.langs_spoken = ['de_DE', 'en_US']
