@@ -30,4 +30,3 @@ if __name__ == "__main__":
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tr3xxx&&langs_count=7&theme=dark&card_width=700)](https://github.com/tr3xxx?tab=repositories)
 #
 
-![Snake animation](https://raw.githubusercontent.com/tr3xxx/tr3xxx/4e094802168b3b7e967f95be8660ba1fea973307/github-contribution-snake.svg)
