@@ -26,7 +26,3 @@ if __name__ == "__main__":
 
 ```
 
-# Languages 📈
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tr3xxx&&langs_count=7&theme=dark&card_width=700)](https://github.com/tr3xxx?tab=repositories)
-#
-
